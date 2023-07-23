@@ -7,10 +7,10 @@ Open Science(OS) primarily aims at increasing the value and reliability of scien
 The uptake and adoption of open science in Africa and for that matter, Ghana, has been low, denying researchers and the country in general benefits that the practices offer.
 
 ## Solution
-This project therefore seeks to investigate the level of OS awareness among early career researchers in Ghana and the possible challenges they may  be facing.
+This project therefore seeks to investigate the level of OS awareness among researchers in Ghana and the possible challenges they may be facing.
  
 ## Potential Methodology
-This study will make use of a questionnaire that will be administered to general researchers(target audience) including students over a period of time to collect answers concerning their level of awareness and also the challenges they may be facing if they are actively practicing OS. The data generated will then be exported to a cloud-saved Excel sheet, analyzed, and the results discussed.
+This study will make use of a questionnaire that will be administered to general researchers(the target audience) including students over a period of time to collect answers concerning their level of awareness and also the challenges they may be facing if they are actively practicing OS. The data generated will then be exported to a cloud-saved Excel sheet, analyzed, and the results discussed.
 
 ## Contributing to this Project
 Please let me know how you would like to contribute to this project by reaching out to me via Email: bsolodzi@gmail.com 
