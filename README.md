@@ -1,4 +1,4 @@
-# Knowledge-and-perspectives-of-open-science-among-researchers-in-Ghana-West-Africa
+# Knowledge-and-perspectives-of-open-science-among-researchers-and-scholars-in-Ghana-West-Africa
 
 ## Brief description of the project
 Open Science(OS) primarily aims at increasing the value and reliability of scientific output to guide innovation and development. Still, African researchers who are mostly disadvantaged due to several reasons are likely not to be actively involved in open science. This study  will therefore help understand the knowledge base and perspectives of open science among researchers in Ghana as well as the challenges they face and recommend possible interventions. More substantial data and evidence is needed to understand the level of adoption and practicality of open science in Ghana. The results of this project will help in establishing the current level of awareness of open science in Ghana and then recommend possible interventions to create an enabling environment for open science to thrive in Ghana. 
